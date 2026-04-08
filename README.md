@@ -4,7 +4,7 @@
 
 Este repositorio contiene el código fuente de mi portafolio personal, diseñado y desarrollado para mostrar mi trabajo, mi stack tecnológico y mi pasión por el desarrollo de software.
 
-Puedes visitar mi portafolio en vivo aquí: **[Inserta tu link aquí, ej: migmaureira.dev]**
+Puedes visitar mi portafolio en vivo aquí: **[https://mig-maureira.github.io/mig-maureira/]**
 
 ---
 
